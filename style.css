@@ -442,7 +442,8 @@ body {
   margin: 0;
   background-color: #6D6B6B;
   color: #000000;
-  line-height: 1.7em
+  line-height: 1.7em;
+  text-align: center;
 }
 
 img {
